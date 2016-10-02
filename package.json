@@ -1,0 +1,28 @@
+{
+  "name": "eslint-config-noderiety",
+  "version": "1.0.0",
+  "description": "Noderiety's ESLint config, extends and slightly alters `eslint-config-airbnb`",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run --silent lint",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CrabDude/eslint-config-noderiety.git"
+  },
+  "keywords": [
+    "eslint",
+    "eslintconfig",
+    "config",
+    "noderiety",
+    "javascript",
+    "styleguide"
+  ],
+  "author": "Adam Crabtree",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CrabDude/eslint-config-noderiety/issues"
+  },
+  "homepage": "https://github.com/CrabDude/eslint-config-noderiety#readme"
+}
