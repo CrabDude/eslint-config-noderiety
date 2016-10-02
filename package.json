@@ -24,12 +24,14 @@
     "url": "https://github.com/CrabDude/eslint-config-noderiety/issues"
   },
   "homepage": "https://github.com/CrabDude/eslint-config-noderiety#readme",
-  "devDependencies": {
+  "dependencies": {
     "babel-eslint": "^7.0.0",
-    "eslint": "^3.7.0",
     "eslint-config-airbnb": "^12.0.0",
     "eslint-plugin-import": "^1.16.0",
     "eslint-plugin-jsx-a11y": "^2.2.2",
     "eslint-plugin-react": "^6.3.0"
+  },
+  "devDependencies": {
+    "eslint": "^3.7.0"
   }
 }
