@@ -15,6 +15,7 @@ module.exports = {
     "no-unused-vars": [2, { "args": "none" }],
     "no-console": 0,
     "no-continue": 0,
-    "no-sync": 2
+    "no-sync": 2,
+    "no-plusplus": 0
   }
 }
